@@ -5,7 +5,8 @@ I downloaded and store the data in my personal computer that has password so tha
 All 3 files of the data were originally CSV (Comma-separated values) files.
 
 
-![Image](https://github.com/users/jamesthien/projects/1/assets/143910343/74b817c7-1416-4da2-a25c-e0180aae909d)
+![image](https://github.com/jamesthien/cylistic_case_study/assets/143910343/b67601e6-9410-4fc6-8058-ce705cd0ff9e)
+
 
 
 
@@ -18,7 +19,7 @@ But before doing so, I will make a copy of the data to go back and reuse if I ne
 
 
 
-![Image](https://github.com/users/jamesthien/projects/1/assets/143910343/9a74d33f-578a-43f9-9188-67f958de4424)
+![image](https://github.com/jamesthien/cylistic_case_study/assets/143910343/a02739c6-7516-40be-bb81-3516173bba76)
 
 
 
