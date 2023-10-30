@@ -21,20 +21,20 @@ After that, I transfer the data to Excel to use Pivot table for quick calculatio
 ## EXCEL - Pivot table
 
 **Total number of rides on each day of the week in the whole first quarter of 2023:**
-![Image](https://github.com/users/jamesthien/projects/1/assets/143910343/c7b4a3ef-7be2-4fab-8c42-7a5189b4376a)
-![Image](https://github.com/users/jamesthien/projects/1/assets/143910343/eab9187b-aea6-4ce1-828a-22770effa468)
+![image](https://github.com/jamesthien/cylistic_case_study/assets/143910343/75cbeb41-d028-4b01-a77e-7dcf886c9907)
+![image](https://github.com/jamesthien/cylistic_case_study/assets/143910343/1b8512eb-46ce-48ee-9b1e-500bb36a822a)
+
 
 
 **Average ride length of members and casual riders**
-![Image](https://github.com/users/jamesthien/projects/1/assets/143910343/1006e2e4-b835-473c-b8b8-1a63b6b9b636)
-![Image](https://github.com/users/jamesthien/projects/1/assets/143910343/0c30bc5c-5f3c-4fc0-80a3-6f1304809843)
-
+![image](https://github.com/jamesthien/cylistic_case_study/assets/143910343/d10558d3-d699-4638-b4f7-9ac61ead2b1f)
+![image](https://github.com/jamesthien/cylistic_case_study/assets/143910343/f6b7b9c7-0f51-4dac-aa86-9996fc8cc545)
 
 
 
 **Average ride length of members and casual riders by days of the week**
-![Image](https://github.com/users/jamesthien/projects/1/assets/143910343/807f1b62-7cc8-44b3-a623-418ec499e6c1)
-![Image](https://github.com/users/jamesthien/projects/1/assets/143910343/6ca0fa4f-b7e4-4d7c-b175-3adaa46931ef)
+![image](https://github.com/jamesthien/cylistic_case_study/assets/143910343/d824cbca-1bf9-4332-a20f-cc292b561825)
+![image](https://github.com/jamesthien/cylistic_case_study/assets/143910343/7a5b77bd-acfd-4e07-8c57-0c97d8845055)
 
 
 My Analysis Summary:
