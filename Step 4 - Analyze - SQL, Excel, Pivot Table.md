@@ -27,6 +27,7 @@ After that, I transfer the data to Excel to use Pivot table for quick calculatio
 
 
 **Average ride length of members and casual riders**
+
 ![image](https://github.com/jamesthien/cylistic_case_study/assets/143910343/d10558d3-d699-4638-b4f7-9ac61ead2b1f)
 ![image](https://github.com/jamesthien/cylistic_case_study/assets/143910343/f6b7b9c7-0f51-4dac-aa86-9996fc8cc545)
 
